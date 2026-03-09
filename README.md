@@ -14,11 +14,7 @@ Each task focuses on learning important development concepts and applying them i
 
 ## **🛠 Technologies Used**
 
-- **HTML**
-- **CSS**
-- **JavaScript**
-- **Git**
-- **GitHub**
+- **C++**
 
 ---
 
@@ -35,8 +31,6 @@ Each task focuses on learning important development concepts and applying them i
 
 **Deepika**
 
-GitHub:  
-https://github.com/Deepika22-d
 
 ---
 
